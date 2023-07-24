@@ -1,0 +1,36 @@
+body{
+background-image: url(img/map.jpeg);
+background-repeat: no-repeat, repeat;
+background-color: #cccccc;
+background-size: 100% 550%;
+}
+.p1{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    text-shadow: 5px 0 5px #000000, 0 5px 5px #000000;
+}
+.p2{
+    text-align: center;
+    color: #ffffff;
+    font-size: 40px;
+    text-shadow: 5px 0 5px #000000, 0 5px 5px #000000;
+}
+.link1{
+    text-decoration: none;
+    color: #000000;
+}
+.button1{
+border: 0.1px solid black;
+background-color: #ffffff; /* Green */
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+border-radius: 20px;
+}
+.div1{
+    padding-top: 100px;
+    text-align: center;
+}
